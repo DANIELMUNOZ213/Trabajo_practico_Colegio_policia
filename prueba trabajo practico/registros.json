@@ -1,0 +1,1 @@
+[{"nombre": "Juan Perez", "edad": 16, "identidad": "ID123", "grado": "10", "nombre_acudiente": "Maria Perez", "cedula_acudiente": "Cedula789", "trabaja_acudiente": true, "telefono": "123456789", "direccion": "Calle Nueva 456", "convenio_policia": true, "id_estudiante": "adc21cf9", "factura": {"costo_inscripcion": 4000.0, "descuentos": {}}}]
